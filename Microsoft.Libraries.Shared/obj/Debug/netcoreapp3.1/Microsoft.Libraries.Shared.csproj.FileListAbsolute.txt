@@ -1,0 +1,9 @@
+C:\0 - AzureCosmosDB\Demonstrations\CaseStudy2Solution\Microsoft.Libraries.Shared\bin\Debug\netcoreapp3.1\Microsoft.Libraries.Shared.deps.json
+C:\0 - AzureCosmosDB\Demonstrations\CaseStudy2Solution\Microsoft.Libraries.Shared\bin\Debug\netcoreapp3.1\Microsoft.Libraries.Shared.dll
+C:\0 - AzureCosmosDB\Demonstrations\CaseStudy2Solution\Microsoft.Libraries.Shared\bin\Debug\netcoreapp3.1\Microsoft.Libraries.Shared.pdb
+C:\0 - AzureCosmosDB\Demonstrations\CaseStudy2Solution\Microsoft.Libraries.Shared\obj\Debug\netcoreapp3.1\Microsoft.Libraries.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\0 - AzureCosmosDB\Demonstrations\CaseStudy2Solution\Microsoft.Libraries.Shared\obj\Debug\netcoreapp3.1\Microsoft.Libraries.Shared.AssemblyInfoInputs.cache
+C:\0 - AzureCosmosDB\Demonstrations\CaseStudy2Solution\Microsoft.Libraries.Shared\obj\Debug\netcoreapp3.1\Microsoft.Libraries.Shared.AssemblyInfo.cs
+C:\0 - AzureCosmosDB\Demonstrations\CaseStudy2Solution\Microsoft.Libraries.Shared\obj\Debug\netcoreapp3.1\Microsoft.Libraries.Shared.csproj.CoreCompileInputs.cache
+C:\0 - AzureCosmosDB\Demonstrations\CaseStudy2Solution\Microsoft.Libraries.Shared\obj\Debug\netcoreapp3.1\Microsoft.Libraries.Shared.dll
+C:\0 - AzureCosmosDB\Demonstrations\CaseStudy2Solution\Microsoft.Libraries.Shared\obj\Debug\netcoreapp3.1\Microsoft.Libraries.Shared.pdb

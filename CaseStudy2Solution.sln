@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{0061E460-DD4F-4ADA-B386-9FB23CA9030A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sensor Messages - Submitter (HTTP)", "Sensor Messages - Submitter (HTTP)", "{E4DA1798-C75A-4558-B274-04B486CFB7EB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sensor Messages - Processor (Event Hubs)", "Sensor Messages - Processor (Event Hubs)", "{FD2782A6-6C31-4717-AD58-9715B868684B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sensor Messages - Archiver (Cosmos DB)", "Sensor Messages - Archiver (Cosmos DB)", "{BCB29E27-9BA4-4BB0-B79F-6FC5F7971720}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft.Libraries.Shared", "Microsoft.Libraries.Shared\Microsoft.Libraries.Shared.csproj", "{55C65AB3-BFE1-4F8B-8AB1-EF597560B53C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriggerEventsHandlerFunctions", "TriggerEventsHandlerFunctions\TriggerEventsHandlerFunctions.csproj", "{57364DA5-C647-48A8-8AD7-35DFE81C04CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55C65AB3-BFE1-4F8B-8AB1-EF597560B53C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55C65AB3-BFE1-4F8B-8AB1-EF597560B53C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55C65AB3-BFE1-4F8B-8AB1-EF597560B53C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55C65AB3-BFE1-4F8B-8AB1-EF597560B53C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57364DA5-C647-48A8-8AD7-35DFE81C04CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57364DA5-C647-48A8-8AD7-35DFE81C04CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57364DA5-C647-48A8-8AD7-35DFE81C04CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57364DA5-C647-48A8-8AD7-35DFE81C04CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{55C65AB3-BFE1-4F8B-8AB1-EF597560B53C} = {0061E460-DD4F-4ADA-B386-9FB23CA9030A}
+		{57364DA5-C647-48A8-8AD7-35DFE81C04CF} = {E4DA1798-C75A-4558-B274-04B486CFB7EB}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26AB2AF0-113D-41D6-8250-613BF48A6E4C}
+	EndGlobalSection
+EndGlobal

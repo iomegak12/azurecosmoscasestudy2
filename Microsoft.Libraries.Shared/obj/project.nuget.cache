@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "B6Tu/BVuWSohAcXARcJGKyw8Qc2xaNsrkpuBzPNBdgKbY2Qq+bcUdpsUnCmZzk+B+fE2j88/zRWPoJ1maAATIg==",
+  "success": true,
+  "projectFilePath": "C:\\0 - AzureCosmosDB\\Demonstrations\\CaseStudy2Solution\\Microsoft.Libraries.Shared\\Microsoft.Libraries.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iomeg\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
