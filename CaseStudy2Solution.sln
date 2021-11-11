@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft.Libraries.Shared"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriggerEventsHandlerFunctions", "TriggerEventsHandlerFunctions\TriggerEventsHandlerFunctions.csproj", "{57364DA5-C647-48A8-8AD7-35DFE81C04CF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SensorDataProcessorFunctions", "SensorDataProcessorFunctions\SensorDataProcessorFunctions.csproj", "{8CB75ACC-3C76-4518-BAE0-14264786B22A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessedMessageArchiverFunctions", "ProcessedMessageArchiverFunctions\ProcessedMessageArchiverFunctions.csproj", "{B7E8AA70-DDBA-4561-A03C-38074DD67540}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,6 +33,14 @@ Global
 		{57364DA5-C647-48A8-8AD7-35DFE81C04CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{57364DA5-C647-48A8-8AD7-35DFE81C04CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{57364DA5-C647-48A8-8AD7-35DFE81C04CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CB75ACC-3C76-4518-BAE0-14264786B22A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CB75ACC-3C76-4518-BAE0-14264786B22A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CB75ACC-3C76-4518-BAE0-14264786B22A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CB75ACC-3C76-4518-BAE0-14264786B22A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7E8AA70-DDBA-4561-A03C-38074DD67540}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7E8AA70-DDBA-4561-A03C-38074DD67540}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7E8AA70-DDBA-4561-A03C-38074DD67540}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7E8AA70-DDBA-4561-A03C-38074DD67540}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -36,6 +48,8 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{55C65AB3-BFE1-4F8B-8AB1-EF597560B53C} = {0061E460-DD4F-4ADA-B386-9FB23CA9030A}
 		{57364DA5-C647-48A8-8AD7-35DFE81C04CF} = {E4DA1798-C75A-4558-B274-04B486CFB7EB}
+		{8CB75ACC-3C76-4518-BAE0-14264786B22A} = {FD2782A6-6C31-4717-AD58-9715B868684B}
+		{B7E8AA70-DDBA-4561-A03C-38074DD67540} = {BCB29E27-9BA4-4BB0-B79F-6FC5F7971720}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {26AB2AF0-113D-41D6-8250-613BF48A6E4C}
